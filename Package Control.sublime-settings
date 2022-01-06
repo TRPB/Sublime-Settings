@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Git",
+		"Highlight",
+		"Package Control",
+		"ScopeContext",
+		"ScopeHunter",
+		"Theme - Hero",
+		"Theme - SoDaReloaded",
+		"Theme - Spacegray",
+		"WordCount",
+	],
+}

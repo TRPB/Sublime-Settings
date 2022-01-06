@@ -1,0 +1,22 @@
+{
+	"added_words":
+	[
+		"analyse",
+		"Normalised",
+		"Insphpect"
+	],
+	"color_scheme": "Packages/User/Tom.tmTheme",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"ignored_words":
+	[
+		"analysed"
+	],
+	"theme": "Default Dark.sublime-theme",
+	"hardware_acceleration": "opengl",
+	"font_face": "Hack",
+	/*"font_size": 10*/
+}
